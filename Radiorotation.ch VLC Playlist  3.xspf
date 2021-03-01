@@ -5,7 +5,7 @@
 		<track>
 			<location>http://radio-rotation.stream.laut.fm/radio-rotation?pl=m3u&amp;t302=2021-03-01_20-01-44&amp;uuid=d2f5364c-2cf9-4dd5-a3db-dc1b5faded2c</location>
 			<title>Radio Rotation</title>
-			<image>file:///C:/Users/FischerAGLehrling/Desktop/Radio Rotation DARK 10kmx10km.png</image>
+			<image>https://raw.githubusercontent.com/RadioRotation/Stream-Dateien/main/Logos/Radio-Rotation.png</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
 			</extension>
@@ -13,7 +13,7 @@
 		<track>
 			<location>http://rotation-hits.stream.laut.fm/rotation-hits?pl=m3u&amp;t302=2021-03-01_20-01-50&amp;uuid=48fc95e1-3cae-4bd6-b06f-2d299cae06a7</location>
 			<title>Rotation Hits</title>
-			<image>file:///C:/Users/FischerAGLehrling/Desktop/Rotation Hits T-W .png</image>
+			<image>https://raw.githubusercontent.com/RadioRotation/Stream-Dateien/main/Logos/Rotation-Hits.png</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>1</vlc:id>
 			</extension>
